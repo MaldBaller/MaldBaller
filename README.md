@@ -1,6 +1,6 @@
 ## Hi im MaldBaller
 
-![github](https://img.shields.io/badge/C++-00008f?logoColor=white) ![github](https://img.shields.io/badge/SFML-00b000?logoColor=white) ![github](https://img.shields.io/badge/RayLib-a00000?logoColor=white) ![github](https://img.shields.io/badge/Unreal-090909?logoColor=white) ![github](https://img.shields.io/badge/Python-0000e6?logoColor=white) ![github](https://img.shields.io/badge/Java-#ff4500?logoColor=white)
+![github](https://img.shields.io/badge/C++-00008f?logoColor=white) ![github](https://img.shields.io/badge/SFML-00b000?logoColor=white) ![github](https://img.shields.io/badge/RayLib-a00000?logoColor=white) ![github](https://img.shields.io/badge/Unreal-090909?logoColor=white) ![github](https://img.shields.io/badge/Python-0000e6?logoColor=white) ![github](https://img.shields.io/badge/Java-ff4500?logoColor=white)
 
 - Based in Italy 🍕
 - Conding since 2018
